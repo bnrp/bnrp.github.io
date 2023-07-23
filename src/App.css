@@ -1,0 +1,109 @@
+.App {
+  text-align: center;
+  background-color: #FFF8E8;
+  font-family: IBMPlexMono-Medium;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #90A955;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #90A955;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  overflow: hidden;
+  align: center;
+}
+
+body {
+  background-color: #FFF8E8;
+}
+
+/* https://fonts.google.com/specimen/IBM+Plex+Mono?preview.text=life%20list&preview.text_type=custom&category=Monospace */
+@font-face {
+  font-family: IBMPlexMono-Medium;
+  src: url('././font/IBM_Plex_Mono/IBMPlexMono-Medium.ttf');
+}
+
+@font-face {
+  font-family: IBMPlexMono-MediumItalic;
+  src: url('././font/IBM_Plex_Mono/IBMPlexMono-MediumItalic.ttf');
+}
+
+.header {
+  padding-top: 4%;
+  padding-right: 35%;
+  padding-bottom: 2%;
+  padding-left: 4%;
+
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 5px;
+}
+
+.header-img-container {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  column-gap: 0px;
+  height: 100%;
+
+  color: #4d2200;
+  font-size: 80pt;
+}
+
+.header-text-container {
+  align: center;
+  text-align: center;
+  vertical-align: middle;
+  color: #4d2200;
+  font-size: 24pt;
+
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 1fr 1fr ;
+  column-gap: 5px;
+  white-space: nowrap;
+}
+
+.header-text-item:hover {
+  font-family: IBMPlexMono-MediumItalic;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.logo {
+  width: 150px;
+  height:150px;
+}
