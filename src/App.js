@@ -1,9 +1,10 @@
 import React from 'react';
 import './App.css';
 import Header from './Header.js';
+import Content from './Content.js';
 
 class ContentContainer extends React.Component {
-  state = { content: "home" }
+  state = { content: 'home' }
   updateContent = (contentKey) => {
     this.setState({content:contentKey})
   }
@@ -12,7 +13,7 @@ class ContentContainer extends React.Component {
     return(
       <div>
         <Header contentCallback={this.updateContent} currentContent={this.state.content} />
-        <p>{this.state.content}</p>
+        <Content contentType={this.state.content} />
       </div>
     );
   }

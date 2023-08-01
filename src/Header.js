@@ -5,12 +5,11 @@ import './App.css';
 class Header extends React.Component {
 
   contentChange = (contentKey) => {
-    console.log(contentKey);
     this.props.contentCallback(contentKey);
   }
 
   componentDidMount() {
-    console.log("Mounted")
+    console.log("Mounted");
   }
 
   render() {
@@ -25,8 +24,6 @@ class Header extends React.Component {
           <p className="header-text-item" onClick={() => this.contentChange('Life List')}>life list</p>
           <p className="header-text-item" onClick={() => this.contentChange('Contact')}>contact</p>
         </div>
-
-
       </div>
     );
   }
