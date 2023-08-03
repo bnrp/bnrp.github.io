@@ -16,13 +16,21 @@ function csvGrabber(getCsvData) {
     })
 }
 
-class SpeciesInfo extends React.componenet {
+class SpeciesInfo extends React.Component {
 
   render() {
+    let info;
+
+    if (this.props.show) {
+      info = <div className='species-info'>
+              Species: {this.props.id} <br></br>
+             </div>;
+    } else {
+      info = <></>;
+    }
+
     return (
-      <div>
-        {this.props.species}
-      </div>
+      <>{info}</>
     );}
 }
 
@@ -31,7 +39,6 @@ class LifeList extends React.Component {
     data: {},
     errors: "",
     meta: "",
-    showSpeciesInfo: false,
     infoID: "0"
   }
 
@@ -45,25 +52,32 @@ class LifeList extends React.Component {
   }
 
   showSpeciesInfo = (id) => {
-    this.setState({infoID: id})
+    if (this.state.infoID !== id) {
+      this.setState({infoID: id})
+    } else {
+      this.setState({infoID: "0"})
+    }
   }
 
   render() {
     return (
-      <div>
-        <table className='life-list-table'><tbody>
+      <div className='life-list-container'>
           {Object.entries(this.state.data).map((species) => {
             return (
-              <tr className='life-list-entry' id={species[0].toString()} onClick={this.showSpeciesInfo(species[0].toString)}>
-                <td>{species[0]}</td>
+              <>
+              <table className='life-list-table' id={species[0].toString()} onClick={() => this.showSpeciesInfo(species[0].toString())}><tbody>
+              <tr className='life-list-entry' id={species[0].toString()}>
+                {/*<td>{species[0]}</td>*/}
                 <td className='row-number'>{species[1][1][0]}</td>
                 <td className='common-name'>{species[1][1][3]}</td>
                 <td className='scientific-name' id={species[0].toString()}>{species[1][1][4]}</td>
                 <td className='state-seen'>{species[1][1][7]}</td>
                 <td className='date-seen'>{species[1][1][8]}</td>
               </tr>
+              </tbody></table>
+              <SpeciesInfo show={(species[0].toString() === this.state.infoID && this.state.infoID !== '0')} id={species[1][1][3]} />
+              </>
           )})}
-        </tbody></table>
       </div>
     );
   }

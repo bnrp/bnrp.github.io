@@ -11,10 +11,10 @@ class ContentContainer extends React.Component {
 
   render() {
     return(
-      <div>
+      <>
         <Header contentCallback={this.updateContent} currentContent={this.state.content} />
         <Content contentType={this.state.content} />
-      </div>
+      </>
     );
   }
 }
@@ -23,9 +23,9 @@ function App() {
 
 
   return (
-    <div className="App">
+    <><div className="App">
       <ContentContainer />
-    </div>
+    </div></>
   );
 }
 
