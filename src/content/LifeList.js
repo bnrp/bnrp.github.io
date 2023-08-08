@@ -62,21 +62,39 @@ class LifeList extends React.Component {
   render() {
     return (
       <div className='life-list-container'>
+
+          <table className='life-list-table' id="0" onClick={() => this.showSpeciesInfo("0")}><tbody>
+          <tr className='life-list-entry' id="0">
+            <td className='row-number'>#</td>
+            <td className='common-name'>Common Name</td>
+            <td className='scientific-name' id="0">Scientific Name</td>
+            <td className='state-seen'>Location</td>
+            <td className='date-seen'>Date Seen</td>
+          </tr>
+          </tbody></table>
+
           {Object.entries(this.state.data).map((species) => {
+            let containerObject =
+            <>
+            <table className='life-list-table' id={species[0].toString()} onClick={() => this.showSpeciesInfo(species[0].toString())}><tbody>
+            <tr className='life-list-entry' id={species[0].toString()}>
+              {/*<td>{species[0]}</td>*/}
+              <td className='row-number'>{species[1][1][0]}</td>
+              <td className='common-name'>{species[1][1][3]}</td>
+              <td className='scientific-name' id={species[0].toString()}>{species[1][1][4]}</td>
+              <td className='state-seen'>{species[1][1][7]}</td>
+              <td className='date-seen'>{species[1][1][8]}</td>
+            </tr>
+            </tbody></table>
+            <SpeciesInfo show={(species[0].toString() === this.state.infoID && this.state.infoID !== '0')} id={species[1][1][3]} />
+            </>;
+
+            if (species[1][1][2] === "slash" || species[0] === "0") {
+              containerObject = <></>;
+            }
+
             return (
-              <>
-              <table className='life-list-table' id={species[0].toString()} onClick={() => this.showSpeciesInfo(species[0].toString())}><tbody>
-              <tr className='life-list-entry' id={species[0].toString()}>
-                {/*<td>{species[0]}</td>*/}
-                <td className='row-number'>{species[1][1][0]}</td>
-                <td className='common-name'>{species[1][1][3]}</td>
-                <td className='scientific-name' id={species[0].toString()}>{species[1][1][4]}</td>
-                <td className='state-seen'>{species[1][1][7]}</td>
-                <td className='date-seen'>{species[1][1][8]}</td>
-              </tr>
-              </tbody></table>
-              <SpeciesInfo show={(species[0].toString() === this.state.infoID && this.state.infoID !== '0')} id={species[1][1][3]} />
-              </>
+              <>{containerObject}</>
           )})}
       </div>
     );
