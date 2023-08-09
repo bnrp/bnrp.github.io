@@ -19,14 +19,12 @@ function csvGrabber(getCsvData) {
 class SpeciesInfo extends React.Component {
 
   render() {
-    let info;
+    let info = <></>;
 
     if (this.props.show) {
       info = <div className='species-info'>
               Species: {this.props.id} <br></br>
              </div>;
-    } else {
-      info = <></>;
     }
 
     return (
@@ -62,6 +60,16 @@ class LifeList extends React.Component {
   render() {
     return (
       <div className='life-list-container'>
+      <div className='life-list-description'>
+      I have a life-long interest in birds and flight which has now manifested in birding (but
+      previously in folding paper airplanes, RC planes, building quadcopters and tricopters, and flight simulators).
+      Here is a complete and exhaustive list of every first encounter with a unique bird
+      species since I started keeping track in June 2023.
+      If you are interested
+      in seeing more, you can visit my <a href='https://ebird.org/profile/NDA0MTAwOA'>eBird</a> profile, which I update regularly.
+      </div>
+
+      <div className='life-list-list-container'>
 
           <table className='life-list-table' id="0" onClick={() => this.showSpeciesInfo("0")}><tbody>
           <tr className='life-list-entry' id="0">
@@ -96,6 +104,7 @@ class LifeList extends React.Component {
             return (
               <>{containerObject}</>
           )})}
+      </div>
       </div>
     );
   }

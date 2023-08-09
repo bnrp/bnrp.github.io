@@ -1,3 +1,13 @@
+a:hover {
+  font-family: IBMPlexMono-MediumItalic;
+}
+
+.about-container {
+  margin: auto;
+  width: 60%;
+  animation: rollout 0.3s;
+}
+
 .App {
   text-align: center;
   background-color: #FFF8E8;
@@ -38,13 +48,24 @@
   align: center;
 }
 
-body {
+body, .header, .content-container {
   background-color: #FFF8E8;
+  background-image: radial-gradient(#4d2200 0.3px, transparent 0);
+  background-size: 21px 21px;
+  background-position: top -100px left -100px;
+  background-attachment: fixed;
+  color: #4d2200;
 }
 
 .common-name {
   width: 33%;
   text-align: center;
+}
+
+.contact-container {
+  margin: auto;
+  width: 60%;
+  animation: rollout 0.3s;
 }
 
 .date-seen {
@@ -66,7 +87,6 @@ body {
   font-family: IBMPlexMono-SemiBold;
   src: url('././font/IBM_Plex_Mono/IBMPlexMono-SemiBold.ttf');
 }
-
 
 .header {
   padding-top: 4%;
@@ -132,9 +152,19 @@ body {
 }
 
 .life-list-container {
+  animation: rollout 0.3s;
+}
+
+.life-list-list-container {
   margin: auto;
   width: 60%;
   padding-bottom: 3%;
+}
+
+.life-list-description {
+  padding-bottom: 2%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .life-list-entry {

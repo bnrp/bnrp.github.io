@@ -21,7 +21,6 @@ class ContentContainer extends React.Component {
 
 function App() {
 
-
   return (
     <><div className="App">
       <ContentContainer />
