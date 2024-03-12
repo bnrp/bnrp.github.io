@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/www.benrippley.com/static/css/main.c5f686cb.css",
+    "main.js": "/www.benrippley.com/static/js/main.5b6de7eb.js",
+    "static/js/453.b6270e27.chunk.js": "/www.benrippley.com/static/js/453.b6270e27.chunk.js",
+    "static/media/headshot.png": "/www.benrippley.com/static/media/headshot.34f4b8142c6b9916d100.png",
+    "static/media/IBMPlexMono-MediumItalic.ttf": "/www.benrippley.com/static/media/IBMPlexMono-MediumItalic.5c1ec74a9f9adb58813e.ttf",
+    "static/media/IBMPlexMono-SemiBold.ttf": "/www.benrippley.com/static/media/IBMPlexMono-SemiBold.5f82c3b8863d23615092.ttf",
+    "static/media/IBMPlexMono-Medium.ttf": "/www.benrippley.com/static/media/IBMPlexMono-Medium.e44b6da17070f5fecd5b.ttf",
+    "static/media/lifelist.csv": "/www.benrippley.com/static/media/lifelist.cfecbf13eb5ad0dd7868.csv",
+    "static/media/logo_brown.svg": "/www.benrippley.com/static/media/logo_brown.d9295c23ef306f4f465c9c9f4c25476e.svg",
+    "index.html": "/www.benrippley.com/index.html",
+    "main.c5f686cb.css.map": "/www.benrippley.com/static/css/main.c5f686cb.css.map",
+    "main.5b6de7eb.js.map": "/www.benrippley.com/static/js/main.5b6de7eb.js.map",
+    "453.b6270e27.chunk.js.map": "/www.benrippley.com/static/js/453.b6270e27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f686cb.css",
+    "static/js/main.5b6de7eb.js"
+  ]
+}
