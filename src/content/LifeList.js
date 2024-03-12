@@ -61,8 +61,6 @@ class LifeList extends React.Component {
     return (
       <div className='life-list-container'>
       <div className='life-list-description'>
-      I have a life-long interest in birds and flight which has now manifested in birding (but
-      previously in folding paper airplanes, RC planes, building quadcopters and tricopters, and flight simulators).
       Here is a complete and exhaustive list of every first encounter with a unique bird
       species since I started keeping track in June 2023.
       If you are interested
