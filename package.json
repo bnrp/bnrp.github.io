@@ -1,6 +1,10 @@
 {
   "name": "website-2.0",
+<<<<<<< HEAD
   "hostname": "www.benrippley.com",
+=======
+  "homepage": "www.benrippley.com",
+>>>>>>> 256590d085e01d9245855f6c3b3e0b87452845d6
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,7 +28,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
