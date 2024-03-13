@@ -34,9 +34,16 @@ class SpeciesInfo extends React.Component {
     let info = <></>;
 
     if (this.props.show) {
-      info = <div className='species-info'>
-              {parse(this.props.content)} <br></br>
-             </div>;
+      if (this.props.content !== "n") {
+        info = <div className='species-info'>
+                {parse(this.props.content)} <br></br>
+               </div>;
+      } else {
+        info = <div className='species-info'>
+                No photos... yet... <br></br>
+               </div>;
+      }
+
     }
 
     return (
