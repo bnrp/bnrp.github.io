@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/www.benrippley.com/static/css/main.e6219f68.css",
-    "main.js": "/www.benrippley.com/static/js/main.c56eb9c7.js",
-    "static/js/453.b6270e27.chunk.js": "/www.benrippley.com/static/js/453.b6270e27.chunk.js",
-    "static/media/headshot.png": "/www.benrippley.com/static/media/headshot.34f4b8142c6b9916d100.png",
-    "static/media/IBMPlexMono-MediumItalic.ttf": "/www.benrippley.com/static/media/IBMPlexMono-MediumItalic.5c1ec74a9f9adb58813e.ttf",
-    "static/media/IBMPlexMono-SemiBold.ttf": "/www.benrippley.com/static/media/IBMPlexMono-SemiBold.5f82c3b8863d23615092.ttf",
-    "static/media/IBMPlexMono-Medium.ttf": "/www.benrippley.com/static/media/IBMPlexMono-Medium.e44b6da17070f5fecd5b.ttf",
-    "static/media/lifelist.csv": "/www.benrippley.com/static/media/lifelist.43c7631839e1a3dd5af3.csv",
-    "static/media/logo_brown.svg": "/www.benrippley.com/static/media/logo_brown.d9295c23ef306f4f465c9c9f4c25476e.svg",
-    "index.html": "/www.benrippley.com/index.html",
-    "main.e6219f68.css.map": "/www.benrippley.com/static/css/main.e6219f68.css.map",
-    "main.c56eb9c7.js.map": "/www.benrippley.com/static/js/main.c56eb9c7.js.map",
-    "453.b6270e27.chunk.js.map": "/www.benrippley.com/static/js/453.b6270e27.chunk.js.map"
+    "main.css": "/bnrp.github.io/static/css/main.956321dc.css",
+    "main.js": "/bnrp.github.io/static/js/main.e8e6e3ef.js",
+    "static/js/453.b6270e27.chunk.js": "/bnrp.github.io/static/js/453.b6270e27.chunk.js",
+    "static/media/headshot.png": "/bnrp.github.io/static/media/headshot.34f4b8142c6b9916d100.png",
+    "static/media/IBMPlexMono-MediumItalic.ttf": "/bnrp.github.io/static/media/IBMPlexMono-MediumItalic.5c1ec74a9f9adb58813e.ttf",
+    "static/media/IBMPlexMono-SemiBold.ttf": "/bnrp.github.io/static/media/IBMPlexMono-SemiBold.5f82c3b8863d23615092.ttf",
+    "static/media/IBMPlexMono-Medium.ttf": "/bnrp.github.io/static/media/IBMPlexMono-Medium.e44b6da17070f5fecd5b.ttf",
+    "static/media/lifelist.csv": "/bnrp.github.io/static/media/lifelist.43c7631839e1a3dd5af3.csv",
+    "static/media/logo_brown.svg": "/bnrp.github.io/static/media/logo_brown.d9295c23ef306f4f465c9c9f4c25476e.svg",
+    "index.html": "/bnrp.github.io/index.html",
+    "main.956321dc.css.map": "/bnrp.github.io/static/css/main.956321dc.css.map",
+    "main.e8e6e3ef.js.map": "/bnrp.github.io/static/js/main.e8e6e3ef.js.map",
+    "453.b6270e27.chunk.js.map": "/bnrp.github.io/static/js/453.b6270e27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6219f68.css",
-    "static/js/main.c56eb9c7.js"
+    "static/css/main.956321dc.css",
+    "static/js/main.e8e6e3ef.js"
   ]
 }
