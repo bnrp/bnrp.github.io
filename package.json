@@ -1,10 +1,6 @@
 {
   "name": "website-2.0",
-<<<<<<< HEAD
-  "hostname": "www.benrippley.com",
-=======
-  "homepage": "www.benrippley.com",
->>>>>>> 256590d085e01d9245855f6c3b3e0b87452845d6
+  "homepage": "https://bnrp.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +8,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "git": "^0.1.5",
+    "html-react-parser": "^5.1.8",
     "joi": "^17.12.2",
     "npm-git-install": "^0.3.0",
     "papaparse": "^5.4.1",
@@ -19,7 +16,7 @@
     "react-dom": "^18.2.0",
     "react-native": "^0.72.3",
     "react-papaparse": "^4.1.0",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -28,9 +25,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [

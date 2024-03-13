@@ -1,104 +1,208 @@
 Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
-1,965,species,Northern Bobwhite,Colinus virginianus,1,Ashwood Road,US-TX,31 Jul 2023,L26073530,S146103405,,1
-2,16540,species,Least Flycatcher,Empidonax minimus,1,Colleyville Nature Ctr. (PPW-W 082),US-TX,28 Jul 2023,L562950,S145829297,,1
-3,7444,species,Yellow-crowned Night-Heron,Nyctanassa violacea,3,Colleyville Nature Ctr. (PPW-W 082),US-TX,28 Jul 2023,L562950,S145829297,,1
-4,8930,species,Barred Owl,Strix varia,1,Saxon Trail,US-TX,26 Jul 2023,L26165994,S145672022,,1
-5,7356,species,Little Blue Heron,Egretta caerulea,2,Grapevine Lake--Meadowmere Pk (Tarrant Co. portion),US-TX,25 Jul 2023,L607561,S145635413,,1
-6,21657,species,Tufted Titmouse,Baeolophus bicolor,2,Saxon Trail,US-TX,24 Jul 2023,L26165994,S145516447,,1
-7,8044,species,Cooper's Hawk,Accipiter cooperii,1,Ashwood Road,US-TX,22 Jul 2023,L26073530,S145285068,,1
-8,7850,species,Mississippi Kite,Ictinia mississippiensis,1,Ashwood Road,US-TX,21 Jul 2023,L26073530,S145206944,,1
-9,26787,species,Bewick's Wren,Thryomanes bewickii,2,Ashwood Road,US-TX,21 Jul 2023,L26073530,S145193477,,1
-11,12477,species,Monk Parakeet,Myiopsitta monachus,6,"Patterson Neighborhood Park, Austin",US-TX,20 Jul 2023,L9701736,S145104341,N,1
-12,8214,species,Broad-winged Hawk,Buteo platypterus,3,Mueller Lake Park,US-TX,19 Jul 2023,L512026,S145022898,,1
-13,8205,species,Red-shouldered Hawk,Buteo lineatus,1,Mueller Lake Park,US-TX,18 Jul 2023,L512026,S144934517,,1
-15,391,species,Egyptian Goose,Alopochen aegyptiaca,2,Mueller Lake Park,US-TX,17 Jul 2023,L512026,S144832661,P,1
-16,230,species,Black-bellied Whistling-Duck,Dendrocygna autumnalis,8,Mueller Lake Park,US-TX,17 Jul 2023,L512026,S144832661,,1
-17,27535,species,Eastern Bluebird,Sialia sialis,4,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
-18,17058,species,Scissor-tailed Flycatcher,Tyrannus forficatus,4,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
-19,7370,species,Cattle Egret,Bubulcus ibis,8,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
-20,6133,species,Lesser Yellowlegs,Tringa flavipes,1,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
-21,6035,species,Least Sandpiper,Calidris minutilla,25,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
-22,5696,species,Black-necked Stilt,Himantopus mexicanus,15,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
-23,5418,species,American Coot,Fulica americana,2,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
-24,18702,species,White-eyed Vireo,Vireo griseus,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,10 Jul 2023,L270814,S144146574,,1
-25,17042,species,Eastern Kingbird,Tyrannus tyrannus,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,10 Jul 2023,L270814,S144146574,,1
-26,17038,species,Western Kingbird,Tyrannus verticalis,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,10 Jul 2023,L270814,S144146574,,1
-27,10871,species,Golden-fronted Woodpecker,Melanerpes aurifrons,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,10 Jul 2023,L270814,S144146574,,1
-28,26774,species,Carolina Wren,Thryothorus ludovicianus,2,Shoal Creek Greenbelt--Pease District Park area,US-TX,07 Jul 2023,L270814,S143834438,,1
-29,26546,species,Blue-gray Gnatcatcher,Polioptila caerulea,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,07 Jul 2023,L270814,S143834438,,1
-30,21660,species,Black-crested Titmouse,Baeolophus atricristatus,3,Shoal Creek Greenbelt--Pease District Park area,US-TX,07 Jul 2023,L270814,S143834438,,1
-31,11095,species,Ladder-backed Woodpecker,Dryobates scalaris,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,07 Jul 2023,L270814,S143834438,,1
-33,3845,species,Chimney Swift,Chaetura pelagica,7,"Univ. of Texas, Austin main campus",US-TX,06 Jul 2023,L1617743,S143832484,,1
-34,32328,species,Field Sparrow,Spizella pusilla,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,04 Jul 2023,L270814,S143579800,,1
-35,31945,species,Lesser Goldfinch,Spinus psaltria,16,Shoal Creek Greenbelt--Pease District Park area,US-TX,04 Jul 2023,L270814,S143579800,,1
-36,23610,species,Barn Swallow,Hirundo rustica,,Shoal Creek Greenbelt--Pease District Park area,US-TX,04 Jul 2023,L270814,S143579800,,1
-37,16907,species,Great Crested Flycatcher,Myiarchus crinitus,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,04 Jul 2023,L270814,S143579800,,1
-38,10887,species,Red-bellied Woodpecker,Melanerpes carolinus,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,04 Jul 2023,L270814,S143579800,,1
-39,7352,species,Snowy Egret,Egretta thula,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,04 Jul 2023,L270814,S143579800,,1
-40,33855,species,Black-headed Grosbeak,Pheucticus melanocephalus,3,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
-41,27413,species,Gray Catbird,Dumetella carolinensis,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
-42,26356,species,White-breasted Nuthatch,Sitta carolinensis,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
-43,11110,species,Hairy Woodpecker,Dryobates villosus,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
-44,10817,species,Red-naped Sapsucker,Sphyrapicus nuchalis,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
-45,8233,species,Red-tailed Hawk,Buteo jamaicensis,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
-46,7291,species,Great Blue Heron,Ardea herodias,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
-47,6116,species,Spotted Sandpiper,Actitis macularius,4,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
-48,4742,species,Black-chinned Hummingbird,Archilochus alexandri,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
-49,31953,species,American Goldfinch,Spinus tristis,1,Polleys Square,US-MT,02 Jul 2023,L25694284,S143583245,,1
-50,23543,species,Violet-green Swallow,Tachycineta thalassina,,Polleys Square,US-MT,02 Jul 2023,L25694284,S143583245,,1
-51,6427,species,Ring-billed Gull,Larus delawarensis,2,Polleys Square,US-MT,02 Jul 2023,L25694284,S143583245,,1
-52,23533,species,Tree Swallow,Tachycineta bicolor,,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
-53,21121,species,Common Raven,Corvus corax,1,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
-54,11697,species,American Kestrel,Falco sparverius,2,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
-55,10831,species,Lewis's Woodpecker,Melanerpes lewis,1,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
-56,9939,species,Belted Kingfisher,Megaceryle alcyon,2,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
-57,8105,species,Bald Eagle,Haliaeetus leucocephalus,1,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
-58,7550,species,Turkey Vulture,Cathartes aura,1,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
-59,708,species,Common Merganser,Mergus merganser,3,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
-60,32315,species,Chipping Sparrow,Spizella passerina,2,Greenough Park,US-MT,02 Jul 2023,L1296837,S143584531,,1
-61,26368,species,Pygmy Nuthatch,Sitta pygmaea,8,Greenough Park,US-MT,02 Jul 2023,L1296837,S143584531,,1
-62,4760,species,Calliope Hummingbird,Selasphorus calliope,1,Greenough Park,US-MT,02 Jul 2023,L1296837,S143584531,,1
-63,33175,species,Brewer's Blackbird,Euphagus cyanocephalus,,Silver's Lagoon,US-MT,01 Jul 2023,L25694963,S143585837,,1
-64,27969,species,American Robin,Turdus migratorius,,Silver's Lagoon,US-MT,01 Jul 2023,L25694963,S143585837,,1
-65,31648,species,House Finch,Haemorhous mexicanus,2,Polleys Square,US-MT,01 Jul 2023,L25694284,S143585584,,1
-66,29256,species,Cedar Waxwing,Bombycilla cedrorum,3,Polleys Square,US-MT,01 Jul 2023,L25694284,S143585584,,1
-67,7565,species,Osprey,Pandion haliaetus,1,Polleys Square,US-MT,01 Jul 2023,L25694284,S143585584,,1
-68,4763,species,Rufous Hummingbird,Selasphorus rufus,1,Polleys Square,US-MT,01 Jul 2023,L25694284,S143585584,,1
-69,1856,species,Rock Pigeon,Columba livia,,Polleys Square,US-MT,01 Jul 2023,L25694284,S143585584,N,1
-70,33404,species,Yellow Warbler,Setophaga petechia,2,Clark Fork Natural Area,US-MT,01 Jul 2023,L25587442,S143585112,,1
-71,3482,species,Common Nighthawk,Chordeiles minor,2,Blue Mountain Recreation Area,US-MT,30 Jun 2023,L4588771,S143588707,,1
-72,33157,species,Brown-headed Cowbird,Molothrus ater,1,Clark Fork Natural Area,US-MT,30 Jun 2023,L25587442,S143588520,,1
-73,27232,species,European Starling,Sturnus vulgaris,5,Clark Fork Natural Area,US-MT,30 Jun 2023,L25587442,S143588520,N,1
-74,23564,species,Bank Swallow,Riparia riparia,,Clark Fork Natural Area,US-MT,30 Jun 2023,L25587442,S143588520,,1
-75,21563,species,Black-capped Chickadee,Poecile atricapillus,3,Clark Fork Natural Area,US-MT,30 Jun 2023,L25587442,S143588520,,1
-76,11572,species,Northern Flicker,Colaptes auratus,1,Clark Fork Natural Area,US-MT,30 Jun 2023,L25587442,S143588520,,1
-77,32601,species,Song Sparrow,Melospiza melodia,7,Blue Mountain Recreation Area,US-MT,30 Jun 2023,L4588771,S143588176,,1
-78,32512,species,White-crowned Sparrow,Zonotrichia leucophrys,1,Blue Mountain Recreation Area,US-MT,30 Jun 2023,L4588771,S143588176,,1
-79,5866,species,Killdeer,Charadrius vociferus,2,Blue Mountain Recreation Area,US-MT,30 Jun 2023,L4588771,S143588176,,1
-80,33101,species,Red-winged Blackbird,Agelaius phoeniceus,5,Bancroft Pond,US-MT,29 Jun 2023,L6860732,S143589805,,1
-81,21054,species,American Crow,Corvus brachyrhynchos,,Bancroft Pond,US-MT,29 Jun 2023,L6860732,S143589805,,1
-82,11083,species,Downy Woodpecker,Dryobates pubescens,1,Bancroft Pond,US-MT,29 Jun 2023,L6860732,S143589805,,1
-83,2405,species,Mourning Dove,Zenaida macroura,,Bancroft Pond,US-MT,29 Jun 2023,L6860732,S143589805,,1
-84,505,species,Mallard,Anas platyrhynchos,,Bancroft Pond,US-MT,29 Jun 2023,L6860732,S143589805,,1
-85,319,species,Canada Goose,Branta canadensis,14,Bancroft Pond,US-MT,29 Jun 2023,L6860732,S143589805,,1
-86,33903,species,Lazuli Bunting,Passerina amoena,1,Greenough Park,US-MT,29 Jun 2023,L1296837,S143589394,,1
-87,21575,species,Mountain Chickadee,Poecile gambeli,,Greenough Park,US-MT,29 Jun 2023,L1296837,S143589394,,1
-88,18795,species,Red-eyed Vireo,Vireo olivaceus,1,Greenough Park,US-MT,29 Jun 2023,L1296837,S143589394,,1
-89,16489,species,Western Wood-Pewee,Contopus sordidulus,1,Greenough Park,US-MT,29 Jun 2023,L1296837,S143589394,,1
-90,2033,species,Eurasian Collared-Dove,Streptopelia decaocto,,Greenough Park,US-MT,29 Jun 2023,L1296837,S143589394,N,1
-91,20972,species,Black-billed Magpie,Pica hudsonia,1,Gallatin County Court House,US-MT,29 Jun 2023,L25695637,S143589089,,1
-92,33811,species,Northern Cardinal,Cardinalis cardinalis,5,Shoal Creek Trail,US-TX,27 Jun 2023,L25519782,S142874758,,1
-93,21558,species,Carolina Chickadee,Poecile carolinensis,1,Shoal Creek Trail,US-TX,27 Jun 2023,L25519782,S142874758,,1
-94,16583,species,Eastern Phoebe,Sayornis phoebe,2,Shoal Creek Trail,US-TX,27 Jun 2023,L25519782,S142874758,,1
-95,7384,species,Green Heron,Butorides virescens,1,Shoal Creek Trail,US-TX,27 Jun 2023,L25519782,S142874758,,1
-96,7323,species,Great Egret,Ardea alba,1,Shoal Creek Trail,US-TX,27 Jun 2023,L25519782,S142874758,,1
-97,33177,species,Common Grackle,Quiscalus quiscula,3,West Campus,US-TX,24 Jun 2023,L25429501,S142584778,,1
-98,30886,species,House Sparrow,Passer domesticus,2,West Campus,US-TX,24 Jun 2023,L25429501,S142584778,N,1
-99,27525,species,Northern Mockingbird,Mimus polyglottos,10,West Campus,US-TX,24 Jun 2023,L25429501,S142584778,,1
-100,7546,species,Black Vulture,Coragyps atratus,1,West Campus,US-TX,24 Jun 2023,L25429501,S142584778,,1
-101,33188,species,Great-tailed Grackle,Quiscalus mexicanus,3,West Campus,US-TX,23 Jun 2023,L25429501,S142511792,,1
-102,20786,species,Blue Jay,Cyanocitta cristata,2,West Campus,US-TX,23 Jun 2023,L25429501,S142511792,,1
-103,2382,species,White-winged Dove,Zenaida asiatica,2,West Campus,US-TX,23 Jun 2023,L25429501,S142511792,,1
-10,264,species,Swan Goose,Anser cygnoides,1,Mueller Lake Park,US-TX,21 Jul 2023,L512026,S145192657,X,0
-14,415,species,Muscovy Duck,Cairina moschata,8,Mueller Lake Park,US-TX,17 Jul 2023,L512026,S144832661,X,0
-32,10889,slash,Golden-fronted/Red-bellied Woodpecker,Melanerpes aurifrons/carolinus,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,07 Jul 2023,L270814,S143834438,,0
+1,2404,species,White-winged Dove,Zenaida asiatica,2,West Campus,US-TX,23 Jun 2023,L25429501,S142511792,,1
+2,20899,species,Blue Jay,Cyanocitta cristata,2,West Campus,US-TX,23 Jun 2023,L25429501,S142511792,,1
+3,33338,species,Great-tailed Grackle,Quiscalus mexicanus,3,West Campus,US-TX,23 Jun 2023,L25429501,S142511792,,1
+4,7620,species,Black Vulture,Coragyps atratus,1,West Campus,US-TX,24 Jun 2023,L25429501,S142584778,,1
+5,27652,species,Northern Mockingbird,Mimus polyglottos,10,West Campus,US-TX,24 Jun 2023,L25429501,S142584778,,1
+6,31018,species,House Sparrow,Passer domesticus,2,West Campus,US-TX,24 Jun 2023,L25429501,S142584778,N,1
+7,33327,species,Common Grackle,Quiscalus quiscula,3,West Campus,US-TX,24 Jun 2023,L25429501,S142584778,,1
+8,7469,species,Green Heron,Butorides virescens,1,Shoal Creek Trail,US-TX,27 Jun 2023,L25519782,S142874758,,1
+9,7491,species,Great Egret,Ardea alba,1,Shoal Creek Trail,US-TX,27 Jun 2023,L25519782,S142874758,,1
+10,16697,species,Eastern Phoebe,Sayornis phoebe,2,Shoal Creek Trail,US-TX,27 Jun 2023,L25519782,S142874758,,1
+11,21671,species,Carolina Chickadee,Poecile carolinensis,1,Shoal Creek Trail,US-TX,27 Jun 2023,L25519782,S142874758,,1
+12,33967,species,Northern Cardinal,Cardinalis cardinalis,5,Shoal Creek Trail,US-TX,27 Jun 2023,L25519782,S142874758,,1
+13,21085,species,Black-billed Magpie,Pica hudsonia,1,Gallatin County Court House,US-MT,29 Jun 2023,L25695637,S143589089,,1
+14,2051,species,Eurasian Collared-Dove,Streptopelia decaocto,,Greenough Park,US-MT,29 Jun 2023,L1296837,S143589394,N,1
+15,16603,species,Western Wood-Pewee,Contopus sordidulus,1,Greenough Park,US-MT,29 Jun 2023,L1296837,S143589394,,1
+16,18910,species,Red-eyed Vireo,Vireo olivaceus,1,Greenough Park,US-MT,29 Jun 2023,L1296837,S143589394,,1
+17,21688,species,Mountain Chickadee,Poecile gambeli,,Greenough Park,US-MT,29 Jun 2023,L1296837,S143589394,,1
+18,34059,species,Lazuli Bunting,Passerina amoena,1,Greenough Park,US-MT,29 Jun 2023,L1296837,S143589394,,1
+19,324,species,Canada Goose,Branta canadensis,14,Bancroft Pond,US-MT,29 Jun 2023,L6860732,S143589805,,1
+20,515,species,Mallard,Anas platyrhynchos,,Bancroft Pond,US-MT,29 Jun 2023,L6860732,S143589805,,1
+21,2427,species,Mourning Dove,Zenaida macroura,,Bancroft Pond,US-MT,29 Jun 2023,L6860732,S143589805,,1
+22,11175,species,Downy Woodpecker,Dryobates pubescens,1,Bancroft Pond,US-MT,29 Jun 2023,L6860732,S143589805,,1
+23,21168,species,American Crow,Corvus brachyrhynchos,,Bancroft Pond,US-MT,29 Jun 2023,L6860732,S143589805,,1
+24,33251,species,Red-winged Blackbird,Agelaius phoeniceus,5,Bancroft Pond,US-MT,29 Jun 2023,L6860732,S143589805,,1
+25,5798,species,Killdeer,Charadrius vociferus,2,Blue Mountain Recreation Area,US-MT,30 Jun 2023,L4588771,S143588176,,1
+26,32658,species,White-crowned Sparrow,Zonotrichia leucophrys,1,Blue Mountain Recreation Area,US-MT,30 Jun 2023,L4588771,S143588176,,1
+27,32748,species,Song Sparrow,Melospiza melodia,7,Blue Mountain Recreation Area,US-MT,30 Jun 2023,L4588771,S143588176,,1
+28,11665,species,Northern Flicker,Colaptes auratus,1,Clark Fork Natural Area,US-MT,30 Jun 2023,L25587442,S143588520,,1
+29,21676,species,Black-capped Chickadee,Poecile atricapillus,3,Clark Fork Natural Area,US-MT,30 Jun 2023,L25587442,S143588520,,1
+30,23636,species,Bank Swallow,Riparia riparia,,Clark Fork Natural Area,US-MT,30 Jun 2023,L25587442,S143588520,,1
+31,27356,species,European Starling,Sturnus vulgaris,5,Clark Fork Natural Area,US-MT,30 Jun 2023,L25587442,S143588520,N,1
+32,33307,species,Brown-headed Cowbird,Molothrus ater,1,Clark Fork Natural Area,US-MT,30 Jun 2023,L25587442,S143588520,,1
+33,3508,species,Common Nighthawk,Chordeiles minor,2,Blue Mountain Recreation Area,US-MT,30 Jun 2023,L4588771,S143588707,,1
+34,33557,species,Yellow Warbler,Setophaga petechia,2,Clark Fork Natural Area,US-MT,01 Jul 2023,L25587442,S143585112,,1
+35,1874,species,Rock Pigeon,Columba livia,,Polleys Square,US-MT,01 Jul 2023,L25694284,S143585584,N,1
+36,4798,species,Rufous Hummingbird,Selasphorus rufus,1,Polleys Square,US-MT,01 Jul 2023,L25694284,S143585584,,1
+37,7640,species,Osprey,Pandion haliaetus,1,Polleys Square,US-MT,01 Jul 2023,L25694284,S143585584,,1
+38,29386,species,Cedar Waxwing,Bombycilla cedrorum,3,Polleys Square,US-MT,01 Jul 2023,L25694284,S143585584,,1
+39,31790,species,House Finch,Haemorhous mexicanus,2,Polleys Square,US-MT,01 Jul 2023,L25694284,S143585584,,1
+40,28096,species,American Robin,Turdus migratorius,,Silver's Lagoon,US-MT,01 Jul 2023,L25694963,S143585837,,1
+41,33325,species,Brewer's Blackbird,Euphagus cyanocephalus,,Silver's Lagoon,US-MT,01 Jul 2023,L25694963,S143585837,,1
+42,4795,species,Calliope Hummingbird,Selasphorus calliope,1,Greenough Park,US-MT,02 Jul 2023,L1296837,S143584531,,1
+43,26471,species,Pygmy Nuthatch,Sitta pygmaea,8,Greenough Park,US-MT,02 Jul 2023,L1296837,S143584531,,1
+44,32460,species,Chipping Sparrow,Spizella passerina,2,Greenough Park,US-MT,02 Jul 2023,L1296837,S143584531,,1
+45,720,species,Common Merganser,Mergus merganser,3,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
+46,7624,species,Turkey Vulture,Cathartes aura,1,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
+47,8187,species,Bald Eagle,Haliaeetus leucocephalus,1,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
+48,10022,species,Belted Kingfisher,Megaceryle alcyon,2,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
+49,10923,species,Lewis's Woodpecker,Melanerpes lewis,1,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
+50,11791,species,American Kestrel,Falco sparverius,2,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
+51,21235,species,Common Raven,Corvus corax,1,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
+52,23649,species,Tree Swallow,Tachycineta bicolor,,Council Grove SP,US-MT,02 Jul 2023,L492302,S143584098,,1
+53,6479,species,Ring-billed Gull,Larus delawarensis,2,Polleys Square,US-MT,02 Jul 2023,L25694284,S143583245,,1
+54,23659,species,Violet-green Swallow,Tachycineta thalassina,,Polleys Square,US-MT,02 Jul 2023,L25694284,S143583245,,1
+55,32095,species,American Goldfinch,Spinus tristis,1,Polleys Square,US-MT,02 Jul 2023,L25694284,S143583245,,1
+56,4777,species,Black-chinned Hummingbird,Archilochus alexandri,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
+57,6091,species,Spotted Sandpiper,Actitis macularius,4,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
+58,7514,species,Great Blue Heron,Ardea herodias,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
+59,8312,species,Red-tailed Hawk,Buteo jamaicensis,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
+60,10908,species,Red-naped Sapsucker,Sphyrapicus nuchalis,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
+61,11202,species,Hairy Woodpecker,Dryobates villosus,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
+62,26436,species,White-breasted Nuthatch,Sitta carolinensis,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
+63,27539,species,Gray Catbird,Dumetella carolinensis,1,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
+64,34011,species,Black-headed Grosbeak,Pheucticus melanocephalus,3,Council Grove SP,US-MT,03 Jul 2023,L492302,S143582502,,1
+65,7416,species,Snowy Egret,Egretta thula,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,04 Jul 2023,L270814,S143579800,,1
+66,10979,species,Red-bellied Woodpecker,Melanerpes carolinus,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,04 Jul 2023,L270814,S143579800,,1
+67,17021,species,Great Crested Flycatcher,Myiarchus crinitus,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,04 Jul 2023,L270814,S143579800,,1
+68,23772,species,Barn Swallow,Hirundo rustica,,Shoal Creek Greenbelt--Pease District Park area,US-TX,04 Jul 2023,L270814,S143579800,,1
+69,32087,species,Lesser Goldfinch,Spinus psaltria,16,Shoal Creek Greenbelt--Pease District Park area,US-TX,04 Jul 2023,L270814,S143579800,,1
+70,32473,species,Field Sparrow,Spizella pusilla,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,04 Jul 2023,L270814,S143579800,,1
+71,3874,species,Chimney Swift,Chaetura pelagica,7,"Univ. of Texas, Austin main campus",US-TX,06 Jul 2023,L1617743,S143832484,,1
+73,11187,species,Ladder-backed Woodpecker,Dryobates scalaris,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,07 Jul 2023,L270814,S143834438,,1
+74,21774,species,Black-crested Titmouse,Baeolophus atricristatus,3,Shoal Creek Greenbelt--Pease District Park area,US-TX,07 Jul 2023,L270814,S143834438,,1
+75,26669,species,Blue-gray Gnatcatcher,Polioptila caerulea,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,07 Jul 2023,L270814,S143834438,,1
+76,26897,species,Carolina Wren,Thryothorus ludovicianus,2,Shoal Creek Greenbelt--Pease District Park area,US-TX,07 Jul 2023,L270814,S143834438,,1
+77,10963,species,Golden-fronted Woodpecker,Melanerpes aurifrons,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,10 Jul 2023,L270814,S144146574,,1
+78,17152,species,Western Kingbird,Tyrannus verticalis,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,10 Jul 2023,L270814,S144146574,,1
+79,17156,species,Eastern Kingbird,Tyrannus tyrannus,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,10 Jul 2023,L270814,S144146574,,1
+80,18816,species,White-eyed Vireo,Vireo griseus,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,10 Jul 2023,L270814,S144146574,,1
+81,5474,species,American Coot,Fulica americana,2,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
+82,5741,species,Black-necked Stilt,Himantopus mexicanus,15,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
+83,6109,species,Lesser Yellowlegs,Tringa flavipes,1,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
+84,6187,species,Least Sandpiper,Calidris minutilla,25,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
+85,7487,species,Western Cattle Egret,Bubulcus ibis,8,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
+86,17172,species,Scissor-tailed Flycatcher,Tyrannus forficatus,4,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
+87,27662,species,Eastern Bluebird,Sialia sialis,4,Hornsby Bend (HOTE 037),US-TX,15 Jul 2023,L130766,S144795875,,1
+88,233,species,Black-bellied Whistling-Duck,Dendrocygna autumnalis,8,Mueller Lake Park,US-TX,17 Jul 2023,L512026,S144832661,,1
+89,397,species,Egyptian Goose,Alopochen aegyptiaca,2,Mueller Lake Park,US-TX,17 Jul 2023,L512026,S144832661,P,1
+91,8284,species,Red-shouldered Hawk,Buteo lineatus,1,Mueller Lake Park,US-TX,18 Jul 2023,L512026,S144934517,,1
+92,8293,species,Broad-winged Hawk,Buteo platypterus,3,Mueller Lake Park,US-TX,19 Jul 2023,L512026,S145022898,,1
+93,12576,species,Monk Parakeet,Myiopsitta monachus,6,"Patterson Neighborhood Park, Austin",US-TX,20 Jul 2023,L9701736,S145104341,N,1
+95,26911,species,Bewick's Wren,Thryomanes bewickii,2,Ashwood Road + Cherrywood Neighborhood,US-TX,21 Jul 2023,L26073530,S145193477,,1
+96,7926,species,Mississippi Kite,Ictinia mississippiensis,1,Ashwood Road + Cherrywood Neighborhood,US-TX,21 Jul 2023,L26073530,S145206944,,1
+97,8122,species,Cooper's Hawk,Accipiter cooperii,1,Ashwood Road + Cherrywood Neighborhood,US-TX,22 Jul 2023,L26073530,S145285068,,1
+98,21771,species,Tufted Titmouse,Baeolophus bicolor,2,Saxon Trail,US-TX,24 Jul 2023,L26165994,S145516447,,1
+99,7401,species,Little Blue Heron,Egretta caerulea,2,Grapevine Lake--Meadowmere Pk (Tarrant Co. portion),US-TX,25 Jul 2023,L607561,S145635413,,1
+100,9011,species,Barred Owl,Strix varia,1,Saxon Trail,US-TX,26 Jul 2023,L26165994,S145672022,,1
+101,7364,species,Yellow-crowned Night Heron,Nyctanassa violacea,3,Colleyville Nature Ctr. (PPW-W 082),US-TX,28 Jul 2023,L562950,S145829297,,1
+102,16654,species,Least Flycatcher,Empidonax minimus,1,Colleyville Nature Ctr. (PPW-W 082),US-TX,28 Jul 2023,L562950,S145829297,,1
+103,979,species,Northern Bobwhite,Colinus virginianus,1,Ashwood Road + Cherrywood Neighborhood,US-TX,31 Jul 2023,L26073530,S146103405,,1
+104,478,species,Gadwall,Mareca strepera,1,Mueller Lake Park,US-TX,11 Aug 2023,L512026,S147250017,,1
+105,634,species,Ring-necked Duck,Aythya collaris,1,Mueller Lake Park,US-TX,18 Aug 2023,L512026,S147541426,,1
+106,4776,species,Ruby-throated Hummingbird,Archilochus colubris,1,Ashwood Road + Cherrywood Neighborhood,US-TX,23 Aug 2023,L26073530,S147930943,,1
+107,33426,species,Northern Waterthrush,Parkesia noveboracensis,1,Ashwood Road + Cherrywood Neighborhood,US-TX,27 Aug 2023,L26073530,S148270396,,1
+108,16641,species,Acadian Flycatcher,Empidonax virescens,1,Mueller Lake Park,US-TX,29 Aug 2023,L512026,S148414388,,1
+109,33799,species,Wilson's Warbler,Cardellina pusilla,5,Mueller Lake Park,US-TX,29 Aug 2023,L512026,S148414388,,1
+110,33435,species,Black-and-white Warbler,Mniotilta varia,1,Ashwood Road + Cherrywood Neighborhood,US-TX,18 Sep 2023,L26073530,S150220039,,1
+111,474,species,Northern Shoveler,Spatula clypeata,3,Mueller Lake Park,US-TX,19 Sep 2023,L512026,S150294539,,1
+112,33454,species,Nashville Warbler,Leiothlypis ruficapilla,4,Ashwood Road + Cherrywood Neighborhood,US-TX,19 Sep 2023,L26073530,S150294828,,1
+113,23869,species,Cave Swallow,Petrochelidon fulva,1,Mueller Lake Park,US-TX,20 Sep 2023,L512026,S151419141,,1
+114,33555,species,Blackburnian Warbler,Setophaga fusca,1,Ashwood Road + Cherrywood Neighborhood,US-TX,21 Sep 2023,L26073530,S150430914,,1
+115,18873,species,Blue-headed Vireo,Vireo solitarius,2,Ashwood Road + Cherrywood Neighborhood,US-TX,25 Sep 2023,L26073530,S150773602,,1
+116,1831,species,Pied-billed Grebe,Podilymbus podiceps,1,Mueller Lake Park,US-TX,25 Sep 2023,L512026,S150774507,,1
+117,32466,species,Clay-colored Sparrow,Spizella pallida,7,Southwest Greenway & Butterfly Garden (Mueller),US-TX,26 Sep 2023,L926665,S151418984,,1
+118,32781,species,Lincoln's Sparrow,Melospiza lincolnii,2,Southwest Greenway & Butterfly Garden (Mueller),US-TX,28 Sep 2023,L926665,S150968557,,1
+119,33499,species,Common Yellowthroat,Geothlypis trichas,4,Southwest Greenway & Butterfly Garden (Mueller),US-TX,28 Sep 2023,L926665,S150968557,,1
+120,460,species,Blue-winged Teal,Spatula discors,17,Mueller Lake Park,US-TX,05 Oct 2023,L512026,S151519881,,1
+121,32715,species,Savannah Sparrow,Passerculus sandwichensis,2,Southwest Greenway & Butterfly Garden (Mueller),US-TX,06 Oct 2023,L926665,S151581783,,1
+122,33041,species,Western Meadowlark,Sturnella neglecta,1,Southwest Greenway & Butterfly Garden (Mueller),US-TX,06 Oct 2023,L926665,S151581783,,1
+123,26737,species,House Wren,Troglodytes aedon,1,Ashwood Road + Cherrywood Neighborhood,US-TX,09 Oct 2023,L26073530,S151829890,,1
+124,26391,species,Ruby-crowned Kinglet,Corthylio calendula,2,Ashwood Road + Cherrywood Neighborhood,US-TX,14 Oct 2023,L26073530,S152260019,,1
+125,33446,species,Orange-crowned Warbler,Leiothlypis celata,5,"Asian American Resource Center, Austin",US-TX,14 Oct 2023,L5433290,S152261356,,1
+126,7253,species,Double-crested Cormorant,Nannopterum auritum,1,Southwest Greenway & Butterfly Garden (Mueller),US-TX,17 Oct 2023,L926665,S152566544,,1
+127,32413,species,Grasshopper Sparrow,Ammodramus savannarum,1,Southwest Greenway & Butterfly Garden (Mueller),US-TX,20 Oct 2023,L926665,S152703686,,1
+128,32688,species,Vesper Sparrow,Pooecetes gramineus,1,Southwest Greenway & Butterfly Garden (Mueller),US-TX,24 Oct 2023,L926665,S153210437,,1
+129,33622,species,Yellow-rumped Warbler,Setophaga coronata,5,Ashwood Road + Cherrywood Neighborhood,US-TX,26 Oct 2023,L26073530,S153210233,,1
+130,676,species,Common Eider,Somateria mollissima,2,Crane Beach (TTOR),US-MA,04 Nov 2023,L211434,S153859112,,1
+131,688,species,Surf Scoter,Melanitta perspicillata,,Crane Beach (TTOR),US-MA,04 Nov 2023,L211434,S153859112,,1
+132,690,species,White-winged Scoter,Melanitta deglandi,,Crane Beach (TTOR),US-MA,04 Nov 2023,L211434,S153859112,,1
+133,6496,species,Herring Gull,Larus argentatus,,Crane Beach (TTOR),US-MA,04 Nov 2023,L211434,S153859112,,1
+134,6516,species,Great Black-backed Gull,Larus marinus,,Crane Beach (TTOR),US-MA,04 Nov 2023,L211434,S153859112,,1
+135,6768,species,Red-throated Loon,Gavia stellata,,Crane Beach (TTOR),US-MA,04 Nov 2023,L211434,S153859112,,1
+136,6774,species,Common Loon,Gavia immer,,Crane Beach (TTOR),US-MA,04 Nov 2023,L211434,S153859112,,1
+137,26395,species,Golden-crowned Kinglet,Regulus satrapa,2,Crane Beach (TTOR),US-MA,04 Nov 2023,L211434,S153859112,,1
+138,701,species,Bufflehead,Bucephala albeola,3,Middlesex Fells Reservation,US-MA,05 Nov 2023,L207386,S153856515,,1
+139,27866,species,Hermit Thrush,Catharus guttatus,2,Middlesex Fells Reservation,US-MA,05 Nov 2023,L207386,S153856515,,1
+140,32595,species,Dark-eyed Junco,Junco hyemalis,1,Middlesex Fells Reservation,US-MA,05 Nov 2023,L207386,S153856515,,1
+141,26564,species,Brown Creeper,Certhia americana,1,Rockland Lake SP,US-NY,09 Nov 2023,L283611,S154151428,,1
+142,26844,species,Winter Wren,Troglodytes hiemalis,2,Rockland Lake SP,US-NY,09 Nov 2023,L283611,S154151428,,1
+143,32672,species,White-throated Sparrow,Zonotrichia albicollis,16,Rockland Lake SP,US-NY,09 Nov 2023,L283611,S154151428,,1
+144,32786,species,Swamp Sparrow,Melospiza georgiana,2,Rockland Lake SP,US-NY,09 Nov 2023,L283611,S154151428,,1
+145,358,species,Mute Swan,Cygnus olor,6,Rockland Lake SP,US-NY,11 Nov 2023,L283611,S154630103,N,1
+146,712,species,Hooded Merganser,Lophodytes cucullatus,3,Rockland Lake SP,US-NY,11 Nov 2023,L283611,S154630103,,1
+147,661,species,Lesser Scaup,Aythya affinis,6,"Southeast Greenway, Mueller",US-TX,15 Nov 2023,L4064693,S156307773,,1
+148,736,species,Ruddy Duck,Oxyura jamaicensis,5,"Southeast Greenway, Mueller",US-TX,15 Nov 2023,L4064693,S156307773,,1
+149,8109,species,Sharp-shinned Hawk,Accipiter striatus,1,Ashwood Road + Cherrywood Neighborhood,US-TX,23 Nov 2023,L26073530,S155067038,,1
+151,487,species,American Wigeon,Mareca americana,30,Roy G. Guerrero Colorado River Metro Park,US-TX,16 Dec 2023,L567534,S156505548,,1
+152,558,species,Northern Pintail,Anas acuta,70,Roy G. Guerrero Colorado River Metro Park,US-TX,16 Dec 2023,L567534,S156505548,,1
+153,6118,species,Greater Yellowlegs,Tringa melanoleuca,3,Roy G. Guerrero Colorado River Metro Park,US-TX,16 Dec 2023,L567534,S156505548,,1
+154,11727,species,Crested Caracara,Caracara plancus,3,Roy G. Guerrero Colorado River Metro Park,US-TX,16 Dec 2023,L567534,S156505548,,1
+155,32859,species,Green-tailed Towhee,Pipilo chlorurus,1,Roy G. Guerrero Colorado River Metro Park,US-TX,16 Dec 2023,L567534,S156505548,,1
+156,574,species,Green-winged Teal,Anas crecca,45,Hornsby Bend (HOTE 037),US-TX,22 Dec 2023,L130766,S156900356,,1
+157,1825,species,Least Grebe,Tachybaptus dominicus,1,Hornsby Bend (HOTE 037),US-TX,22 Dec 2023,L130766,S156900356,,1
+158,1852,species,Eared Grebe,Podiceps nigricollis,1,Hornsby Bend (HOTE 037),US-TX,22 Dec 2023,L130766,S156900356,,1
+159,6069,species,Wilson's Snipe,Gallinago delicata,9,Hornsby Bend (HOTE 037),US-TX,22 Dec 2023,L130766,S156900356,,1
+160,26878,species,Marsh Wren,Cistothorus palustris,1,Hornsby Bend (HOTE 037),US-TX,22 Dec 2023,L130766,S156900356,,1
+161,31361,species,American Pipit,Anthus rubescens,4,Hornsby Bend (HOTE 037),US-TX,22 Dec 2023,L130766,S156900356,,1
+162,10907,species,Yellow-bellied Sapsucker,Sphyrapicus varius,2,Castle Heights Ave,US-NY,24 Dec 2023,L28494208,S157401783,,1
+163,627,species,Canvasback,Aythya valisineria,27,Piermont Pier,US-NY,28 Dec 2023,L275331,S157366947,,1
+164,21181,species,Fish Crow,Corvus ossifragus,2,Piermont Pier,US-NY,28 Dec 2023,L275331,S157366947,,1
+165,32567,species,American Tree Sparrow,Spizelloides arborea,11,Piermont Pier,US-NY,28 Dec 2023,L275331,S157366947,,1
+166,10926,species,Red-headed Woodpecker,Melanerpes erythrocephalus,2,Croton Point Park,US-NY,31 Dec 2023,L509108,S157670409,,1
+168,628,species,Redhead,Aythya americana,1,Mueller Lake Park,US-TX,09 Jan 2024,L512026,S158525844,,1
+169,433,species,Wood Duck,Aix sponsa,2,"Town Lake Park (HOTE 042), Austin",US-TX,26 Jan 2024,L129110,S159877734,,1
+170,17144,species,Couch's Kingbird,Tyrannus couchii,1,"Town Lake Park (HOTE 042), Austin",US-TX,26 Jan 2024,L129110,S159877734,,1
+171,33616,species,Pine Warbler,Setophaga pinus,1,Ashwood Road + Cherrywood Neighborhood,US-TX,02 Feb 2024,L26073530,S160427019,,1
+173,23691,species,Northern Rough-winged Swallow,Stelgidopteryx serripennis,2,Roy G. Guerrero Colorado River Metro Park,US-TX,19 Feb 2024,L567534,S162374380,,1
+174,33987,species,Pyrrhuloxia,Cardinalis sinuatus,1,Roy G. Guerrero Colorado River Metro Park,US-TX,19 Feb 2024,L567534,S162374380,,1
+175,23666,species,Purple Martin,Progne subis,3,Mueller Lake Park,US-TX,22 Feb 2024,L512026,S162549698,,1
+176,5442,species,Common Gallinule,Gallinula galeata,7,Fortymile Bend,US-FL,29 Feb 2024,L635618,S163900865,,1
+177,5489,species,Purple Gallinule,Porphyrio martinica,1,Fortymile Bend,US-FL,29 Feb 2024,L635618,S163900865,,1
+178,7195,species,Anhinga,Anhinga anhinga,1,Fortymile Bend,US-FL,29 Feb 2024,L635618,S163900865,,1
+179,7546,species,White Ibis,Eudocimus albus,2,Fortymile Bend,US-FL,29 Feb 2024,L635618,S163900865,,1
+180,7699,species,Swallow-tailed Kite,Elanoides forficatus,1,Fortymile Bend,US-FL,29 Feb 2024,L635618,S163900865,,1
+181,33332,species,Boat-tailed Grackle,Quiscalus major,6,Fortymile Bend,US-FL,29 Feb 2024,L635618,S163900865,,1
+182,6125,species,Ruddy Turnstone,Arenaria interpres,13,Bahia Honda SP,US-FL,29 Feb 2024,L127445,S163298858,,1
+183,6153,species,Sanderling,Calidris alba,2,Bahia Honda SP,US-FL,29 Feb 2024,L127445,S163298858,,1
+184,6448,species,Laughing Gull,Leucophaeus atricilla,1,Bahia Honda SP,US-FL,29 Feb 2024,L127445,S163298858,,1
+185,6725,species,Royal Tern,Thalasseus maximus,1,Bahia Honda SP,US-FL,29 Feb 2024,L127445,S163298858,,1
+186,7289,species,Brown Pelican,Pelecanus occidentalis,2,Bahia Honda SP,US-FL,29 Feb 2024,L127445,S163298858,,1
+187,33611,species,Palm Warbler,Setophaga palmarum,1,Bahia Honda SP,US-FL,29 Feb 2024,L127445,S163298858,,1
+188,2262,species,Common Ground Dove,Columbina passerina,2,Bahia Honda SP,US-FL,01 Mar 2024,L127445,S163324903,,1
+189,33643,species,Prairie Warbler,Setophaga discolor,1,Bahia Honda SP,US-FL,01 Mar 2024,L127445,S163324903,,1
+190,6024,species,Short-billed Dowitcher,Limnodromus griseus,1,Bahia Honda SP,US-FL,01 Mar 2024,L127445,S163330313,,1
+191,6111,species,Willet,Tringa semipalmata,1,Bahia Honda SP,US-FL,01 Mar 2024,L127445,S163330313,,1
+192,7147,species,Magnificent Frigatebird,Fregata magnificens,1,Bahia Honda SP,US-FL,01 Mar 2024,L127445,S163332715,,1
+193,1562,species,Red Junglefowl,Gallus gallus,2,Fort Zachary Taylor Historic SP,US-FL,02 Mar 2024,L127449,S163472104,P,1
+194,1976,species,White-crowned Pigeon,Patagioenas leucocephala,3,Fort Zachary Taylor Historic SP,US-FL,02 Mar 2024,L127449,S163472104,,1
+195,6713,species,Sandwich Tern,Thalasseus sandvicensis,1,Fort Zachary Taylor Historic SP,US-FL,02 Mar 2024,L127449,S163472104,,1
+196,7406,species,Reddish Egret,Egretta rufescens,1,Fort Zachary Taylor Historic SP,US-FL,02 Mar 2024,L127449,S163472104,,1
+197,33534,species,Northern Parula,Setophaga americana,1,Fort Zachary Taylor Historic SP,US-FL,02 Mar 2024,L127449,S163472104,,1
+198,33631,species,Yellow-throated Warbler,Setophaga dominica,1,Fort Zachary Taylor Historic SP,US-FL,02 Mar 2024,L127449,S163472104,,1
+199,8304,species,Short-tailed Hawk,Buteo brachyurus,1,"1406 Ricketts Circle, Key West, Florida, US (24.562, -81.792)",US-FL,02 Mar 2024,L29610729,S163480618,,1
+200,5782,species,Black-bellied Plover,Pluvialis squatarola,2,Sandspur Beach,US-FL,02 Mar 2024,L1451390,S163499122,,1
+202,6670,species,Forster's Tern,Sterna forsteri,2,Sandspur Beach,US-FL,02 Mar 2024,L1451390,S163499122,,1
+203,7402,species,Tricolored Heron,Egretta tricolor,1,Sandspur Beach,US-FL,02 Mar 2024,L1451390,S163499122,,1
+204,1515,species,Indian Peafowl,Pavo cristatus,4,"88665 U.S. 1, Tavernier, Florida, US (24.976, -80.553)",US-FL,03 Mar 2024,L29621699,S163535488,P,1
+205,7138,species,Wood Stork,Mycteria americana,4,"Alligator Alley, Ochopee, Florida, US (26.168, -81.095)",US-FL,03 Mar 2024,L29626148,S163561410,,1
+206,18867,species,Yellow-throated Vireo,Vireo flavifrons,1,Disney Fort Wilderness,US-FL,05 Mar 2024,L2201140,S163777883,,1
+90,423,species,Muscovy Duck,Cairina moschata,8,Mueller Lake Park,US-TX,17 Jul 2023,L512026,S144832661,X,0
+94,268,species,Swan Goose,Anser cygnoides,1,Mueller Lake Park,US-TX,21 Jul 2023,L512026,S145192657,X,0
+72,10981,slash,Golden-fronted/Red-bellied Woodpecker,Melanerpes aurifrons/carolinus,1,Shoal Creek Greenbelt--Pease District Park area,US-TX,07 Jul 2023,L270814,S143834438,,0
+150,2855,spuh,pigeon/dove sp.,Columbidae sp.,,Southwest Greenway & Butterfly Garden (Mueller),US-TX,27 Nov 2023,L926665,S155392230,,0
+167,6564,spuh,gull sp.,Larinae sp.,13,"Fresh Pond, Cambridge",US-MA,02 Jan 2024,L207370,S157914550,,0
+172,8123,slash,Sharp-shinned/Cooper's Hawk,Accipiter striatus/cooperii,1,Southwest Greenway & Butterfly Garden (Mueller),US-TX,14 Feb 2024,L926665,S161490080,,0
+201,6196,spuh,peep sp.,Calidris sp. (peep sp.),6,Sandspur Beach,US-FL,02 Mar 2024,L1451390,S163499122,,0
+207,33062,slash,Western/Eastern Meadowlark,Sturnella neglecta/magna,2,Southwest Greenway & Butterfly Garden (Mueller),US-TX,11 Mar 2024,L926665,S164450361,,0
