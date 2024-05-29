@@ -1,5 +1,8 @@
 import React from 'react';
 import './App.css';
+
+import 'react-photo-view/dist/react-photo-view.css';
+
 import Header from './Header.js';
 import Content from './Content.js';
 

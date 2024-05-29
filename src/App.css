@@ -136,6 +136,20 @@ iframe {
   background-color: transparent;
 }
 
+.image-card {
+  transfrom-origin: center;
+  animation: rocking 10000ms ease-in-out 10000ms infinite alternate;
+}
+
+@keyframes rocking {
+  from {
+    transform: scale(0.98) rotate(-1deg) skew(1deg);
+  }
+  to {
+    transform: scale(1.02) rotate(1deg) skew(-1deg);
+  }
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -174,6 +188,7 @@ iframe {
 
 .life-list-entry {
   border-bottom: 1px solid;
+  width: 100%;
 }
 
 .life-list-table {
@@ -194,6 +209,28 @@ iframe {
 .logo {
   width: 150px;
   height:150px;
+}
+
+.gallery-container {
+  width:100%;
+  margin: auto;
+}
+
+.photo-view-container {
+}
+
+.photo-view-item {
+  padding: 3px;
+  height: 15%;
+  width: 15%;
+}
+
+table {
+  width: 100%;
+}
+
+tbody {
+  width: 100%;
 }
 
 .row-number {

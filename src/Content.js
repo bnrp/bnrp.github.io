@@ -3,6 +3,7 @@ import About from './content/About.js';
 import Contact from './content/Contact.js';
 import Home from './content/Home.js';
 import LifeList from './content/LifeList.js';
+import Gallery from './content/Gallery.js';
 
 class Content extends React.Component {
   state = { contentType: this.props.contentType };
@@ -17,6 +18,8 @@ class Content extends React.Component {
       this.content = <LifeList />;
     } else if (this.state.contentType === 'Contact') {
       this.content = <Contact />;
+    } else if (this.state.contentType === 'Gallery') {
+      this.content = <Gallery />
     } else {
       console.log(this.state.contentType);
       this.content = <Home />;

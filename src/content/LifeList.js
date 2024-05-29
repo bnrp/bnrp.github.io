@@ -207,7 +207,7 @@ class LifeList extends React.Component {
           {Object.entries(this.state.data).map((species) => {
             let containerObject =
             <>
-            <table className='life-list-table' id={species[1][1][0].toString()} onClick={() => this.showSpeciesInfo(species[1][1][0].toString())}><tbody>
+            <table className='life-list-tabele' id={species[1][1][0].toString()} onClick={() => this.showSpeciesInfo(species[1][1][0].toString())}><tbody>
             <tr className='life-list-entry' id={species[1][1][0].toString()} >
               {/*<td>{species[0]}</td>*/}
               <td className='row-number'>{species[1][1][0]}</td>

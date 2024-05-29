@@ -1,4 +1,5 @@
 import React from 'react';
+import ImageCard from './ImageCard.js';
 
 class Home extends React.Component {
 
@@ -9,7 +10,9 @@ class Home extends React.Component {
 
   render() {
     return (
-      <div> </div>
+      <div>
+        <ImageCard scale={"50%"} />
+      </div>
     );
   }
 }
