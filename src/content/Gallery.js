@@ -18,16 +18,20 @@ class Gallery extends React.Component {
   
 
   render() {
-    const images = importAll(require.context('../img/gallery-img', false))
+    const images = importAll(require.context('../img/gallery-img', false));
+    const thumbnails = importAll(require.context('../img/gallery-img/thumbnails', false));
 
     console.log(images);
     return (
       <div className="gallery-container">
+        <div className="gallery-description">
+          Here are some of my best photos or photos of some interesting species I've encountered over my time as a bird photographer. Click/tap on any image to load a higher quality version in which you can zoom in/out as desired.
+        </div>
         <PhotoProvider>
           <div>
             {Object.entries(images).map(([item, index]) => (
                 <PhotoView key={item} src={index} class="photo-view-object" bannerVisible={false} >
-                  <img className="photo-view-item" src={index} alt="" />
+                  <img className="photo-view-item" src={thumbnails[item]} alt="" />
                 </PhotoView>
             ))}
           </div>
